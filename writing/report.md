@@ -1,7 +1,7 @@
 ## Lab 1 Assignment:
 ### Researching and Reporting on Database Tools
-#### Name:
-#### Date:
+#### Name: Claire Klima
+#### Date: September 4, 2020
 
 ### Article 1
  -  Article name.

@@ -4,11 +4,11 @@
 #### Date: September 4, 2020
 
 ### Article 1
- -  Article name.
- - Your answer here
+ - Article name.
+ - "TikTok Tracked User Data Using Tactic Banned by Google"
 
 -  Reference or article citation.
- - Your answer here
+ - [Article Link](https://www.wsj.com/articles/tiktok-tracked-user-data-using-tactic-banned-by-google-11597176738)
 
 - Briefly describe the article's premise.
  - Your answer here
@@ -28,10 +28,10 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+ - "Has Google's data collection gone too far?"
 
 -  Reference or article citation.
- - Your answer here
+ - [Article Link](https://www.dw.com/en/has-googles-data-collection-gone-too-far/a-49531478)
 
 - Briefly describe the article's premise.
  - Your answer here
